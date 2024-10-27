@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning machine learning and web development.    
 - 📫 How to reach me - vaishnavikapoor586@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a fast learner. 
 
 <!---
 vaishnavikapoor/vaishnavikapoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
