@@ -2,6 +2,7 @@
 - 👀 I’m interested in data science and artificial intelligence (also boxing).
 - 🌱 I’m currently learning machine learning and web development.    
 - 📫 How to reach me - vaishnavikapoor586@gmail.com
+- LinkedIn: www.linkedin.com/in/vaishnavi-kapoor-6ab704285 
 - 😄 Pronouns: she/her
 
 <!---
